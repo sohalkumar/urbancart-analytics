@@ -5,7 +5,7 @@ Python EDA → a 5-page Tableau dashboard covering revenue, profitability,
 marketing performance, customers, and operations for a fictional Indian
 D2C retail brand ("UrbanCart").
 
-🔗 **Live Dashboard:** [add your Tableau Public link here]
+🔗 **Live Dashboard:** https://public.tableau.com/views/urbancart_analytics/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 > **Note on the data:** No live e-commerce dataset was available for this
 > project, so the underlying data is synthetically generated
