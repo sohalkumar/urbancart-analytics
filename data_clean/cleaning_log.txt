@@ -1,0 +1,11 @@
+Customers: removed 15 duplicate rows
+Customers: filled 24 missing city values with 'Unknown'
+Products: filled 4 missing cost_price values using category-average margin
+Orders: all dates parsed successfully
+Orders: filled 30 missing payment_method values with 'Unknown'
+Order items: removed 20 duplicate line items
+Marketing spend: standardized channel casing and filled 6 missing spend values with channel average
+Referential check: 0 orphan orders, 0 orphan order items
+
+Final row counts -> customers: 600, products: 50, orders: 4200, order_items: 7458
+Clean CSVs written to data_clean/, SQLite DB written to data_clean/urbancart.db

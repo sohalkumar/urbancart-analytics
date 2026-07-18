@@ -1,0 +1,51 @@
+product_id,product_name,category,unit_price,cost_price
+1,Wireless Earbuds,Electronics,2449.0,1275.98
+2,Bluetooth Speaker,Electronics,759.0,387.22
+3,Power Bank 10000mAh,Electronics,1099.0,675.51
+4,Smartwatch,Electronics,2979.0,1367.04
+5,USB-C Cable,Electronics,1309.0,745.48
+6,Laptop Sleeve,Electronics,2589.0,1782.67
+7,Wireless Mouse,Electronics,919.0,611.03
+8,Phone Case,Electronics,2629.0,1366.06
+9,Screen Protector,Electronics,739.0,404.45
+10,Portable Charger,Electronics,989.0,462.3
+11,Non-Stick Pan,Home & Kitchen,949.0,555.87
+12,Insulated Water Bottle,Home & Kitchen,1629.0,848.39
+13,LED Desk Lamp,Home & Kitchen,449.0,267.78
+14,Cotton Bedsheet Set,Home & Kitchen,1879.0,921.9
+15,Ceramic Mug Set,Home & Kitchen,1289.0,653.48
+16,Storage Containers,Home & Kitchen,1049.0,561.62
+17,Kitchen Scale,Home & Kitchen,1929.0,1285.37
+18,Wall Clock,Home & Kitchen,1129.0,640.6
+19,Table Organizer,Home & Kitchen,339.0,158.03
+20,Diffuser Set,Home & Kitchen,1729.0,1001.55
+21,Cotton T-Shirt,Fashion,1429.0,671.21
+22,Denim Jacket,Fashion,699.0,388.2
+23,Running Shoes,Fashion,1919.0,1281.71
+24,Leather Wallet,Fashion,1159.0,627.69
+25,Sunglasses,Fashion,2249.0,1290.86
+26,Backpack,Fashion,1159.0,527.49
+27,Formal Shirt,Fashion,2319.0,1181.31
+28,Sports Cap,Fashion,909.0,417.32
+29,Ankle Socks Pack,Fashion,2439.0,1431.18
+30,Canvas Sneakers,Fashion,599.0,357.49
+31,Face Wash,Beauty & Personal Care,959.0,491.86
+32,Sunscreen SPF50,Beauty & Personal Care,499.0,261.79
+33,Hair Serum,Beauty & Personal Care,1149.0,599.81
+34,Lip Balm Set,Beauty & Personal Care,1229.0,665.94
+35,Body Lotion,Beauty & Personal Care,389.0,211.6
+36,Beard Trimmer,Beauty & Personal Care,489.0,300.09
+37,Perfume 100ml,Beauty & Personal Care,929.0,422.38
+38,Face Mask Pack,Beauty & Personal Care,909.0,418.52
+39,Shampoo 400ml,Beauty & Personal Care,739.0,397.85
+40,Nail Care Kit,Beauty & Personal Care,529.0,355.04
+41,Yoga Mat,Sports & Fitness,1199.0,680.37
+42,Resistance Bands Set,Sports & Fitness,1809.0,964.58
+43,Dumbbell 5kg,Sports & Fitness,1379.0,707.47
+44,Skipping Rope,Sports & Fitness,2559.0,1608.38
+45,Water Bottle Sipper,Sports & Fitness,2579.0,1284.15
+46,Gym Gloves,Sports & Fitness,1669.0,1157.76
+47,Foam Roller,Sports & Fitness,619.0,329.58
+48,Fitness Tracker Band,Sports & Fitness,769.0,394.08
+49,Badminton Racket,Sports & Fitness,659.0,414.08
+50,Football,Sports & Fitness,909.0,515.81

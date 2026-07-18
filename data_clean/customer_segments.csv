@@ -1,0 +1,509 @@
+customer_id,customer_name,acquisition_channel,frequency,monetary,recency_days,rfm_total,customer_segment
+16,Simran Desai,Organic Search,9,32081.45,98,11,Champion
+19,Navya Kapoor,Google Ads,5,20363.0,323,11,Champion
+43,Amit Reddy,Google Ads,13,26530.45,101,11,Champion
+91,Priya Iyer,Email/SMS,7,24989.3,190,11,Champion
+143,Vikram Patel,Influencer,10,18796.6,85,11,Champion
+206,Reyansh Singh,Organic Search,5,20365.1,363,11,Champion
+242,Diya Gupta,Organic Search,9,19327.55,87,11,Champion
+253,Riya Mehta,Referral,11,32914.7,95,11,Champion
+295,Vivaan Bansal,Organic Search,7,23254.85,179,11,Champion
+318,Krishna Desai,Meta Ads,6,20734.25,124,11,Champion
+370,Rajesh Agarwal,Affiliate,8,17842.95,135,11,Champion
+385,Yash Bansal,Google Ads,10,25178.95,94,11,Champion
+407,Diya Joshi,Referral,12,24067.9,94,11,Champion
+464,Arjun Agarwal,Google Ads,8,23608.8,95,11,Champion
+470,Reyansh Nair,Google Ads,8,26071.8,84,11,Champion
+485,Divya Verma,Organic Search,6,21991.0,220,11,Champion
+1,Ayaan Sharma,Google Ads,8,21277.75,79,10,At Risk (high value)
+4,Kiara Kulkarni,Referral,23,52837.4,39,10,At Risk (high value)
+13,Arjun Nair,Influencer,5,12754.3,309,10,Champion
+21,Simran Bansal,Affiliate,3,11028.85,408,10,Champion
+22,Tanya Sharma,Influencer,4,9695.05,441,10,Champion
+69,Aadhya Pillai,Organic Search,9,24150.5,60,10,At Risk (high value)
+70,Om Kapoor,Email/SMS,7,21763.35,81,10,At Risk (high value)
+77,Vikram Rao,Organic Search,4,9115.3,343,10,Champion
+89,Arjun Verma,Google Ads,4,13439.5,379,10,Champion
+101,Yash Rao,Meta Ads,3,9898.1,375,10,Champion
+114,Tanya Chauhan,Meta Ads,10,22764.4,53,10,At Risk (high value)
+122,Rajesh Desai,Organic Search,18,54203.4,53,10,At Risk (high value)
+125,Diya Desai,Affiliate,7,16238.1,147,10,Champion
+144,Ishaan Gupta,Referral,8,20643.9,59,10,At Risk (high value)
+147,Sai Malhotra,Google Ads,8,15759.8,98,10,Champion
+149,Sneha Reddy,Email/SMS,11,23699.45,41,10,At Risk (high value)
+162,Kiara Chauhan,Meta Ads,5,7631.5,340,10,Champion
+187,Priya Reddy,Meta Ads,18,55990.55,50,10,At Risk (high value)
+207,Ira Kapoor,Organic Search,15,39807.65,47,10,At Risk (high value)
+230,Divya Mehta,Google Ads,6,13227.25,404,10,Champion
+231,Saanvi Bansal,Organic Search,8,31439.5,54,10,At Risk (high value)
+265,Krishna Singh,Meta Ads,7,20917.6,58,10,At Risk (high value)
+269,Suresh Agarwal,Influencer,9,31147.5,39,10,At Risk (high value)
+294,Vivaan Joshi,Meta Ads,7,8670.35,109,10,Champion
+309,Reyansh Reddy,Referral,8,22624.35,41,10,At Risk (high value)
+310,Aman Desai,Google Ads,15,33481.85,48,10,At Risk (high value)
+321,Simran Mehta,Organic Search,7,18638.0,60,10,At Risk (high value)
+323,Suresh Desai,Meta Ads,12,25977.1,53,10,At Risk (high value)
+328,Meera Verma,Google Ads,16,43347.9,55,10,At Risk (high value)
+351,Riya Chauhan,Meta Ads,27,73521.1,56,10,At Risk (high value)
+357,Nikhil Kulkarni,Organic Search,4,16474.8,86,10,Champion
+381,Pooja Sharma,Influencer,10,23663.9,45,10,At Risk (high value)
+386,Amit Kapoor,Meta Ads,16,62869.0,42,10,At Risk (high value)
+390,Meera Nair,Google Ads,4,12035.2,349,10,Champion
+397,Anika Singh,Organic Search,4,8014.5,346,10,Champion
+398,Vikram Joshi,Organic Search,3,15108.2,322,10,Champion
+405,Amit Sharma,Organic Search,7,16164.05,94,10,Champion
+406,Aadhya Nair,Influencer,11,31872.1,48,10,At Risk (high value)
+409,Neha Kulkarni,Influencer,13,33654.65,57,10,At Risk (high value)
+418,Meera Desai,Meta Ads,8,20612.35,84,10,At Risk (high value)
+425,Krishna Malhotra,Influencer,15,33263.55,64,10,At Risk (high value)
+426,Myra Reddy,Organic Search,6,22245.1,45,10,At Risk (high value)
+434,Sneha Nair,Affiliate,10,25332.75,82,10,At Risk (high value)
+443,Vikram Nair,Referral,10,25979.65,68,10,At Risk (high value)
+473,Amit Gupta,Affiliate,4,19439.45,86,10,Champion
+479,Rohan Reddy,Organic Search,5,9626.55,457,10,Champion
+507,Karan Kulkarni,Google Ads,8,27952.3,54,10,At Risk (high value)
+520,Diya Kulkarni,Meta Ads,18,37499.95,57,10,At Risk (high value)
+521,Navya Agarwal,Google Ads,3,10357.95,396,10,Champion
+527,Ishaan Bansal,Google Ads,12,25583.45,64,10,At Risk (high value)
+556,Neha Pillai,Google Ads,4,18131.3,87,10,Champion
+567,Aarav Kapoor,Referral,10,21422.05,47,10,At Risk (high value)
+573,Aditya Chauhan,Affiliate,3,12855.2,338,10,Champion
+574,Reyansh Sharma,Google Ads,9,26446.35,66,10,At Risk (high value)
+14,Divya Reddy,Meta Ads,3,7673.75,390,9,New / Occasional
+23,Ira Singh,Google Ads,8,16646.85,4,9,At Risk (high value)
+25,Tanya Bansal,Referral,6,16760.4,41,9,At Risk (high value)
+26,Saanvi Mehta,Influencer,9,18776.45,17,9,At Risk (high value)
+31,Rahul Nair,Organic Search,4,9244.2,122,9,Champion
+46,Ira Bansal,Affiliate,20,39890.8,34,9,At Risk (high value)
+50,Sneha Rao,Affiliate,18,51425.35,36,9,At Risk (high value)
+57,Aman Singh,Email/SMS,112,314078.55,16,9,At Risk (high value)
+60,Rajesh Kapoor,Organic Search,4,10746.8,90,9,Champion
+62,Sneha Bansal,Meta Ads,16,44642.9,22,9,At Risk (high value)
+67,Diya Bansal,Google Ads,5,10073.2,147,9,Champion
+72,Meera Nair,Referral,20,44828.2,24,9,At Risk (high value)
+87,Divya Kapoor,Meta Ads,10,25062.55,0,9,At Risk (high value)
+94,Ira Bansal,Organic Search,12,18690.8,10,9,At Risk (high value)
+102,Rahul Desai,Referral,16,32080.15,30,9,At Risk (high value)
+105,Suresh Kapoor,Meta Ads,6,11640.7,124,9,Champion
+110,Nikhil Patel,Organic Search,9,27534.3,16,9,At Risk (high value)
+112,Meera Verma,Meta Ads,22,58236.0,11,9,At Risk (high value)
+115,Om Verma,Meta Ads,24,64411.5,29,9,At Risk (high value)
+116,Sai Iyer,Google Ads,5,9423.9,308,9,Champion
+126,Sneha Desai,Meta Ads,18,30591.45,38,9,At Risk (high value)
+128,Amit Bose,Meta Ads,28,60200.75,2,9,At Risk (high value)
+138,Aarav Mehta,Influencer,15,24770.15,30,9,At Risk (high value)
+151,Nikhil Agarwal,Meta Ads,10,38280.2,3,9,At Risk (high value)
+154,Ira Nair,Organic Search,22,54906.35,6,9,At Risk (high value)
+155,Meera Mehta,Google Ads,4,11406.4,207,9,Champion
+166,Rahul Patel,Affiliate,5,8096.85,182,9,Champion
+178,Kavya Patel,Referral,7,33562.3,8,9,At Risk (high value)
+181,Rohan Bansal,Organic Search,4,9821.7,251,9,Champion
+195,Tanya Nair,Meta Ads,17,56735.0,8,9,At Risk (high value)
+205,Rohan Iyer,Google Ads,34,88429.0,22,9,At Risk (high value)
+219,Karan Bansal,Meta Ads,2,7905.5,363,9,New / Occasional
+222,Amit Reddy,Referral,16,40980.6,26,9,At Risk (high value)
+223,Karan Reddy,Meta Ads,6,10616.85,164,9,Champion
+234,Vivaan Malhotra,Organic Search,12,38765.35,2,9,At Risk (high value)
+237,Aman Kulkarni,Meta Ads,4,7682.35,151,9,Champion
+239,Ira Patel,Organic Search,57,150304.65,27,9,At Risk (high value)
+241,Ishaan Mehta,Organic Search,13,18227.75,25,9,At Risk (high value)
+243,Simran Bose,Organic Search,2,9410.7,337,9,New / Occasional
+246,Diya Kulkarni,Referral,27,76372.25,21,9,At Risk (high value)
+250,Priya Malhotra,Affiliate,4,17260.4,53,9,At Risk (high value)
+254,Neha Kulkarni,Organic Search,6,17255.1,81,9,At Risk (high value)
+255,Vihaan Gupta,Google Ads,8,14077.55,70,9,At Risk (high value)
+257,Myra Joshi,Organic Search,5,7499.45,127,9,Champion
+263,Rohan Joshi,Meta Ads,94,263372.65,13,9,At Risk (high value)
+268,Rohan Gupta,Google Ads,3,8322.5,388,9,New / Occasional
+270,Ayaan Pillai,Affiliate,13,30352.35,31,9,At Risk (high value)
+271,Kiara Joshi,Google Ads,12,20507.65,3,9,At Risk (high value)
+272,Suresh Rao,Organic Search,59,158864.1,10,9,At Risk (high value)
+285,Aman Mehta,Google Ads,2,7530.1,460,9,New / Occasional
+286,Anika Joshi,Organic Search,3,12181.5,100,9,Champion
+289,Amit Joshi,Google Ads,10,27249.9,11,9,At Risk (high value)
+307,Suresh Rao,Meta Ads,11,34079.7,12,9,At Risk (high value)
+325,Ayaan Verma,Google Ads,7,13709.25,73,9,At Risk (high value)
+335,Pooja Singh,Google Ads,4,10335.45,88,9,Champion
+338,Vihaan Singh,Meta Ads,4,8263.45,194,9,Champion
+346,Anika Nair,Google Ads,7,21147.1,31,9,At Risk (high value)
+354,Ishaan Sharma,Referral,11,20027.5,14,9,At Risk (high value)
+358,Diya Bose,Affiliate,2,11326.5,633,9,New / Occasional
+359,Vihaan Sharma,Referral,14,36417.6,14,9,At Risk (high value)
+360,Aarav Nair,Organic Search,82,237414.8,23,9,At Risk (high value)
+363,Sneha Iyer,Google Ads,13,39287.7,5,9,At Risk (high value)
+366,Sai Verma,Organic Search,12,24183.7,7,9,At Risk (high value)
+368,Meera Patel,Influencer,3,11875.4,88,9,Champion
+377,Navya Reddy,Meta Ads,4,11340.3,218,9,Champion
+379,Diya Malhotra,Google Ads,33,75154.3,38,9,At Risk (high value)
+389,Myra Kapoor,Google Ads,6,21238.45,16,9,At Risk (high value)
+393,Pooja Gupta,Organic Search,3,8987.85,525,9,New / Occasional
+402,Ira Verma,Google Ads,7,17285.8,38,9,At Risk (high value)
+403,Ananya Singh,Organic Search,10,30513.8,32,9,At Risk (high value)
+420,Sneha Patel,Meta Ads,15,42545.55,13,9,At Risk (high value)
+421,Sai Kulkarni,Referral,8,14329.05,82,9,At Risk (high value)
+422,Om Malhotra,Email/SMS,4,16591.2,65,9,At Risk (high value)
+433,Divya Sharma,Affiliate,3,9451.15,175,9,Champion
+436,Ananya Verma,Organic Search,21,58520.4,32,9,At Risk (high value)
+440,Reyansh Patel,Organic Search,7,15268.1,57,9,At Risk (high value)
+441,Krishna Reddy,Referral,21,50757.3,26,9,At Risk (high value)
+445,Suresh Bansal,Google Ads,5,8534.4,106,9,Champion
+449,Meera Malhotra,Organic Search,13,34846.8,36,9,At Risk (high value)
+453,Sai Pillai,Organic Search,3,8004.75,428,9,New / Occasional
+457,Neha Pillai,Referral,11,30900.05,34,9,At Risk (high value)
+461,Ayaan Singh,Meta Ads,5,8781.65,193,9,Champion
+465,Tanya Verma,Meta Ads,7,19101.3,33,9,At Risk (high value)
+469,Neha Sharma,Referral,7,16873.65,30,9,At Risk (high value)
+472,Rahul Joshi,Google Ads,12,34690.45,31,9,At Risk (high value)
+475,Rohan Kapoor,Meta Ads,4,5031.15,412,9,Low Engagement
+476,Kavya Patel,Meta Ads,11,21701.3,17,9,At Risk (high value)
+478,Ayaan Gupta,Google Ads,23,45588.9,26,9,At Risk (high value)
+483,Sai Agarwal,Affiliate,17,49754.75,22,9,At Risk (high value)
+490,Pooja Joshi,Influencer,21,59512.5,10,9,At Risk (high value)
+500,Ayaan Pillai,Organic Search,35,77051.55,7,9,At Risk (high value)
+509,Ananya Malhotra,Google Ads,4,8078.9,143,9,Champion
+515,Rajesh Rao,Organic Search,6,18916.5,14,9,At Risk (high value)
+518,Sai Desai,Organic Search,78,177146.35,7,9,At Risk (high value)
+528,Suresh Chauhan,Organic Search,8,15478.85,59,9,At Risk (high value)
+534,Karan Singh,Meta Ads,14,25819.8,34,9,At Risk (high value)
+544,Sai Mehta,Organic Search,66,157042.25,14,9,At Risk (high value)
+550,Priya Bose,Google Ads,4,10036.1,116,9,Champion
+555,Meera Nair,Email/SMS,15,30308.5,5,9,At Risk (high value)
+558,Karan Gupta,Organic Search,4,7531.0,285,9,Champion
+560,Vihaan Agarwal,Google Ads,48,123237.0,11,9,At Risk (high value)
+562,Krishna Nair,Google Ads,43,116454.1,27,9,At Risk (high value)
+563,Diya Gupta,Organic Search,4,12125.2,138,9,Champion
+564,Aarav Kulkarni,Email/SMS,4,10676.95,172,9,Champion
+566,Aman Chauhan,Meta Ads,45,110781.6,26,9,At Risk (high value)
+576,Reyansh Pillai,Email/SMS,9,26442.5,7,9,At Risk (high value)
+587,Ananya Patel,Organic Search,8,24773.65,25,9,At Risk (high value)
+588,Kavya Desai,Meta Ads,12,31134.75,26,9,At Risk (high value)
+592,Tanya Pillai,Organic Search,19,36657.45,2,9,At Risk (high value)
+598,Suresh Bose,Organic Search,8,17436.1,4,9,At Risk (high value)
+15,Kavya Malhotra,Affiliate,2,6979.85,358,8,New / Occasional
+24,Nikhil Gupta,Google Ads,5,11732.25,54,8,At Risk (high value)
+33,Saanvi Bose,Organic Search,3,8566.8,85,8,New / Occasional
+34,Arjun Kulkarni,Email/SMS,10,15679.25,37,8,At Risk (high value)
+38,Aadhya Verma,Google Ads,4,6734.2,85,8,Low Engagement
+45,Neha Gupta,Email/SMS,5,6719.5,103,8,Low Engagement
+51,Ananya Kulkarni,Google Ads,3,18734.4,7,8,At Risk (high value)
+53,Aditya Mehta,Referral,2,7362.1,406,8,New / Occasional
+54,Reyansh Joshi,Influencer,2,5893.55,476,8,New / Occasional
+58,Kiara Singh,Meta Ads,4,8382.6,51,8,At Risk (high value)
+73,Aarav Patel,Organic Search,4,9581.85,58,8,At Risk (high value)
+74,Vihaan Bose,Organic Search,3,7521.35,225,8,New / Occasional
+75,Tanya Bose,Organic Search,4,11395.7,65,8,At Risk (high value)
+76,Simran Malhotra,Influencer,3,11087.85,58,8,At Risk (high value)
+82,Aarav Joshi,Organic Search,3,11148.5,55,8,At Risk (high value)
+88,Sai Desai,Meta Ads,6,12142.05,61,8,At Risk (high value)
+90,Krishna Desai,Referral,2,5426.15,435,8,New / Occasional
+93,Pooja Chauhan,Meta Ads,3,14783.15,59,8,At Risk (high value)
+95,Priya Gupta,Organic Search,4,5328.85,289,8,Low Engagement
+99,Vikram Singh,Google Ads,3,6199.05,430,8,New / Occasional
+104,Kavya Joshi,Affiliate,3,6845.2,418,8,New / Occasional
+107,Aman Rao,Google Ads,2,11744.05,166,8,New / Occasional
+109,Krishna Rao,Affiliate,6,11160.25,45,8,At Risk (high value)
+123,Rohan Bansal,Referral,2,4262.85,408,8,New / Occasional
+139,Vikram Bose,Organic Search,2,3660.8,498,8,New / Occasional
+153,Neha Agarwal,Meta Ads,2,5648.3,340,8,New / Occasional
+156,Vihaan Bansal,Email/SMS,2,6988.3,671,8,New / Occasional
+185,Rahul Patel,Affiliate,7,13221.55,23,8,At Risk (high value)
+196,Rohan Agarwal,Google Ads,2,3503.6,493,8,New / Occasional
+211,Meera Bansal,Google Ads,2,4662.1,334,8,New / Occasional
+224,Priya Mehta,Google Ads,5,7461.75,163,8,Low Engagement
+240,Ayaan Desai,Meta Ads,2,4320.15,369,8,New / Occasional
+248,Ira Pillai,Referral,8,10906.45,34,8,At Risk (high value)
+260,Diya Desai,Meta Ads,4,17803.1,23,8,At Risk (high value)
+261,Anika Kulkarni,Meta Ads,2,5474.4,346,8,New / Occasional
+275,Meera Rao,Organic Search,5,13727.6,79,8,At Risk (high value)
+276,Rajesh Mehta,Organic Search,4,11213.45,46,8,At Risk (high value)
+280,Divya Patel,Google Ads,4,10851.7,82,8,At Risk (high value)
+284,Myra Nair,Organic Search,6,11206.35,64,8,At Risk (high value)
+301,Karan Bose,Referral,5,12275.7,58,8,At Risk (high value)
+312,Diya Malhotra,Organic Search,2,5802.25,420,8,New / Occasional
+314,Rajesh Pillai,Meta Ads,4,4283.25,141,8,Low Engagement
+316,Karan Mehta,Organic Search,4,4862.45,85,8,Low Engagement
+317,Amit Malhotra,Google Ads,6,12757.45,68,8,At Risk (high value)
+324,Yash Gupta,Influencer,5,12354.5,47,8,At Risk (high value)
+327,Sai Pillai,Organic Search,6,16395.55,75,8,At Risk (high value)
+334,Kiara Sharma,Organic Search,6,14744.3,62,8,At Risk (high value)
+336,Ayaan Verma,Meta Ads,6,15837.25,55,8,At Risk (high value)
+343,Pooja Pillai,Meta Ads,2,3381.3,353,8,New / Occasional
+348,Saanvi Agarwal,Influencer,4,11373.35,57,8,At Risk (high value)
+349,Ira Sharma,Affiliate,5,11562.25,63,8,At Risk (high value)
+372,Pooja Bose,Referral,5,11905.1,83,8,At Risk (high value)
+374,Yash Bansal,Organic Search,4,11224.25,84,8,At Risk (high value)
+394,Rahul Bose,Organic Search,4,11428.3,77,8,At Risk (high value)
+396,Aditya Agarwal,Google Ads,5,9301.85,83,8,At Risk (high value)
+399,Neha Sharma,Affiliate,3,6628.85,412,8,New / Occasional
+401,Aman Joshi,Meta Ads,1,7587.8,570,8,New / Occasional
+423,Meera Joshi,Meta Ads,2,6878.55,365,8,New / Occasional
+428,Sai Chauhan,Organic Search,4,12372.9,69,8,At Risk (high value)
+430,Divya Joshi,Organic Search,2,5890.05,423,8,New / Occasional
+437,Sai Patel,Organic Search,3,4490.65,527,8,New / Occasional
+438,Tanya Kulkarni,Google Ads,4,8873.35,57,8,At Risk (high value)
+439,Sneha Reddy,Referral,4,10205.55,63,8,At Risk (high value)
+452,Amit Gupta,Google Ads,5,10831.35,70,8,At Risk (high value)
+458,Navya Patel,Organic Search,4,8577.3,75,8,At Risk (high value)
+462,Aman Joshi,Organic Search,4,17771.4,30,8,At Risk (high value)
+480,Ira Rao,Organic Search,4,11401.65,41,8,At Risk (high value)
+489,Saanvi Pillai,Google Ads,1,10692.5,401,8,New / Occasional
+496,Meera Reddy,Organic Search,4,9492.0,67,8,At Risk (high value)
+497,Diya Desai,Meta Ads,2,7403.1,447,8,New / Occasional
+498,Tanya Desai,Meta Ads,4,5068.3,208,8,Low Engagement
+503,Kiara Agarwal,Google Ads,4,9920.5,40,8,At Risk (high value)
+505,Om Singh,Meta Ads,4,6324.7,90,8,Low Engagement
+512,Pooja Iyer,Meta Ads,4,9737.15,66,8,At Risk (high value)
+513,Om Desai,Influencer,3,10288.9,68,8,At Risk (high value)
+514,Ananya Verma,Referral,3,11696.45,79,8,At Risk (high value)
+517,Yash Desai,Organic Search,3,9129.55,71,8,At Risk (high value)
+531,Meera Patel,Organic Search,2,4826.85,414,8,New / Occasional
+565,Nikhil Gupta,Organic Search,4,10202.8,57,8,At Risk (high value)
+572,Kiara Reddy,Google Ads,2,7147.15,418,8,New / Occasional
+18,Anika Bose,Influencer,2,1931.2,629,7,New / Occasional
+29,Aditya Kapoor,Organic Search,3,3795.95,169,7,New / Occasional
+37,Divya Mehta,Google Ads,1,5392.8,458,7,New / Occasional
+40,Arjun Bansal,Google Ads,2,6249.85,307,7,New / Occasional
+56,Rahul Singh,Influencer,3,8813.0,58,7,Low Engagement
+66,Riya Bose,Referral,3,5301.25,158,7,New / Occasional
+71,Ishaan Sharma,Organic Search,2,4546.65,88,7,New / Occasional
+100,Rohan Iyer,Meta Ads,2,5503.2,181,7,New / Occasional
+103,Vikram Sharma,Meta Ads,2,4264.25,103,7,New / Occasional
+117,Vikram Bansal,Referral,4,4122.65,50,7,Low Engagement
+119,Saanvi Malhotra,Email/SMS,1,3584.2,500,7,New / Occasional
+121,Vikram Patel,Meta Ads,3,4200.35,304,7,New / Occasional
+130,Saanvi Pillai,Organic Search,5,11221.4,0,7,At Risk (high value)
+133,Suresh Sharma,Email/SMS,3,3228.6,330,7,New / Occasional
+135,Riya Pillai,Organic Search,2,7344.45,136,7,New / Occasional
+137,Krishna Gupta,Meta Ads,5,11481.15,20,7,At Risk (high value)
+145,Karan Bose,Influencer,3,8218.5,49,7,Low Engagement
+150,Ananya Iyer,Referral,5,7580.35,6,7,At Risk (high value)
+159,Krishna Gupta,Meta Ads,2,3868.15,113,7,New / Occasional
+163,Ayaan Kulkarni,Organic Search,3,3408.25,149,7,New / Occasional
+164,Priya Patel,Meta Ads,3,14452.2,13,7,At Risk (high value)
+172,Aadhya Bansal,Affiliate,5,9711.95,29,7,At Risk (high value)
+177,Rahul Pillai,Meta Ads,4,5583.65,42,7,Low Engagement
+179,Tanya Mehta,Affiliate,1,3738.0,450,7,New / Occasional
+180,Amit Malhotra,Influencer,4,6925.95,58,7,Low Engagement
+182,Suresh Kapoor,Organic Search,2,2732.75,616,7,New / Occasional
+189,Riya Bansal,Meta Ads,2,2798.0,341,7,New / Occasional
+193,Diya Rao,Influencer,2,5096.0,244,7,New / Occasional
+209,Ishaan Singh,Organic Search,5,10092.9,18,7,At Risk (high value)
+210,Arjun Iyer,Organic Search,3,2726.3,347,7,New / Occasional
+213,Divya Kulkarni,Referral,3,8862.9,64,7,Low Engagement
+214,Sai Bansal,Organic Search,4,2980.55,100,7,Low Engagement
+225,Krishna Reddy,Email/SMS,1,4109.75,553,7,New / Occasional
+232,Reyansh Pillai,Organic Search,2,5016.35,175,7,New / Occasional
+236,Ishaan Reddy,Email/SMS,2,3939.75,271,7,New / Occasional
+249,Saanvi Mehta,Google Ads,1,4125.65,443,7,New / Occasional
+264,Ananya Iyer,Meta Ads,2,5289.15,92,7,New / Occasional
+266,Suresh Reddy,Affiliate,5,11114.55,34,7,At Risk (high value)
+278,Karan Bansal,Affiliate,3,9742.6,16,7,At Risk (high value)
+281,Pooja Bansal,Email/SMS,1,3909.6,351,7,New / Occasional
+283,Ira Desai,Organic Search,4,7719.15,36,7,At Risk (high value)
+293,Simran Pillai,Organic Search,1,4656.0,543,7,New / Occasional
+296,Vihaan Agarwal,Email/SMS,3,3660.55,111,7,New / Occasional
+300,Aman Pillai,Influencer,2,2638.0,357,7,New / Occasional
+302,Anika Bansal,Organic Search,3,2420.4,347,7,New / Occasional
+303,Kiara Mehta,Organic Search,2,8599.1,69,7,Low Engagement
+322,Kiara Reddy,Meta Ads,4,8859.0,10,7,At Risk (high value)
+329,Anika Sharma,Meta Ads,5,4954.75,51,7,Low Engagement
+330,Arjun Bose,Meta Ads,2,7196.1,262,7,New / Occasional
+333,Neha Patel,Referral,1,3704.2,587,7,New / Occasional
+337,Arjun Patel,Referral,4,6988.9,67,7,Low Engagement
+350,Aman Singh,Meta Ads,3,12509.4,31,7,At Risk (high value)
+356,Nikhil Bose,Referral,2,4547.65,159,7,New / Occasional
+367,Aarav Iyer,Email/SMS,1,5326.25,449,7,New / Occasional
+376,Kavya Chauhan,Google Ads,3,7004.2,306,7,New / Occasional
+382,Myra Agarwal,Google Ads,3,8051.95,52,7,Low Engagement
+417,Riya Verma,Email/SMS,5,5401.75,65,7,Low Engagement
+424,Riya Mehta,Email/SMS,2,5291.75,90,7,New / Occasional
+442,Vikram Joshi,Organic Search,2,3008.0,401,7,New / Occasional
+446,Ira Nair,Organic Search,3,5680.25,109,7,New / Occasional
+448,Arjun Pillai,Organic Search,1,3842.55,556,7,New / Occasional
+460,Meera Iyer,Referral,6,14405.3,36,7,At Risk (high value)
+488,Rahul Bose,Google Ads,1,3270.2,322,7,New / Occasional
+491,Simran Kapoor,Organic Search,3,5544.1,124,7,New / Occasional
+492,Vivaan Rao,Organic Search,1,6244.95,418,7,New / Occasional
+504,Aarav Agarwal,Meta Ads,5,9454.5,35,7,At Risk (high value)
+523,Tanya Malhotra,Meta Ads,1,5661.2,408,7,New / Occasional
+533,Ishaan Bansal,Organic Search,6,14797.75,18,7,At Risk (high value)
+541,Saanvi Rao,Influencer,5,10980.25,21,7,At Risk (high value)
+545,Aadhya Singh,Organic Search,2,2891.2,438,7,New / Occasional
+554,Riya Rao,Referral,3,4517.85,194,7,New / Occasional
+559,Karan Joshi,Google Ads,4,9955.25,38,7,At Risk (high value)
+570,Yash Pillai,Meta Ads,1,3618.0,352,7,New / Occasional
+578,Saanvi Bansal,Meta Ads,3,8273.85,67,7,Low Engagement
+582,Kiara Kulkarni,Email/SMS,1,4088.2,354,7,New / Occasional
+586,Amit Kulkarni,Referral,3,3901.1,221,7,New / Occasional
+596,Sai Kulkarni,Organic Search,1,3515.2,701,7,New / Occasional
+5,Karan Rao,Google Ads,1,2579.0,350,6,New / Occasional
+6,Reyansh Joshi,Organic Search,2,8524.35,37,6,Low Engagement
+7,Ayaan Chauhan,Influencer,2,4111.05,52,6,Low Engagement
+8,Priya Agarwal,Affiliate,1,2175.15,437,6,New / Occasional
+27,Vikram Patel,Organic Search,1,769.0,636,6,New / Occasional
+28,Kiara Agarwal,Meta Ads,3,6161.65,78,6,Low Engagement
+35,Sai Singh,Influencer,1,2326.55,628,6,New / Occasional
+39,Aman Pillai,Influencer,2,3000.15,94,6,New / Occasional
+42,Meera Pillai,Meta Ads,1,1099.0,625,6,New / Occasional
+52,Ishaan Bose,Organic Search,1,1350.55,330,6,New / Occasional
+55,Myra Iyer,Influencer,2,4174.85,57,6,Low Engagement
+61,Anika Verma,Email/SMS,1,4625.15,276,6,New / Occasional
+64,Saanvi Joshi,Organic Search,2,5498.35,81,6,Low Engagement
+68,Riya Nair,Organic Search,1,2120.2,498,6,New / Occasional
+78,Myra Rao,Meta Ads,1,1557.15,591,6,New / Occasional
+80,Aadhya Gupta,Organic Search,2,2642.2,131,6,New / Occasional
+81,Aadhya Malhotra,Organic Search,2,4785.15,81,6,Low Engagement
+97,Sneha Iyer,Email/SMS,1,1537.0,388,6,New / Occasional
+108,Saanvi Mehta,Referral,1,1388.55,446,6,New / Occasional
+111,Diya Verma,Organic Search,1,1708.2,706,6,New / Occasional
+124,Meera Agarwal,Google Ads,4,7037.5,36,6,Low Engagement
+127,Reyansh Iyer,Referral,1,2907.0,411,6,New / Occasional
+131,Vihaan Nair,Influencer,1,2294.1,478,6,New / Occasional
+132,Nikhil Patel,Google Ads,3,3221.55,192,6,New / Occasional
+134,Ayaan Kulkarni,Affiliate,2,5251.3,66,6,Low Engagement
+140,Divya Kapoor,Influencer,1,2326.55,472,6,New / Occasional
+141,Rahul Verma,Organic Search,1,1482.15,536,6,New / Occasional
+146,Aditya Bansal,Affiliate,2,3258.1,128,6,New / Occasional
+148,Ira Sharma,Meta Ads,4,6221.65,12,6,Low Engagement
+152,Aarav Kulkarni,Organic Search,1,2934.6,396,6,New / Occasional
+157,Kiara Nair,Referral,1,2024.1,440,6,New / Occasional
+160,Rajesh Joshi,Google Ads,3,8814.85,37,6,Low Engagement
+171,Amit Rao,Google Ads,2,2857.75,134,6,New / Occasional
+184,Aadhya Malhotra,Organic Search,3,7346.1,71,6,Low Engagement
+191,Navya Agarwal,Email/SMS,1,1642.55,460,6,New / Occasional
+197,Om Verma,Organic Search,1,2068.2,455,6,New / Occasional
+199,Kavya Desai,Organic Search,1,499.0,403,6,New / Occasional
+200,Yash Verma,Email/SMS,2,2381.65,300,6,New / Occasional
+201,Riya Kapoor,Google Ads,1,440.1,712,6,New / Occasional
+204,Sneha Agarwal,Organic Search,1,919.0,341,6,New / Occasional
+217,Sai Pillai,Organic Search,3,6092.65,41,6,Low Engagement
+221,Karan Gupta,Affiliate,2,1139.15,336,6,New / Occasional
+226,Tanya Verma,Google Ads,1,1879.0,640,6,New / Occasional
+227,Diya Bansal,Referral,1,2979.0,585,6,New / Occasional
+238,Ishaan Bose,Meta Ads,4,5256.15,12,6,Low Engagement
+244,Priya Rao,Meta Ads,1,2150.05,711,6,New / Occasional
+251,Nikhil Desai,Organic Search,1,2781.1,361,6,New / Occasional
+262,Krishna Gupta,Email/SMS,1,919.0,679,6,New / Occasional
+274,Karan Agarwal,Referral,1,7037.1,280,6,New / Occasional
+299,Om Desai,Meta Ads,1,1809.0,485,6,New / Occasional
+304,Suresh Rao,Influencer,1,1669.0,441,6,New / Occasional
+306,Neha Kulkarni,Organic Search,1,1594.1,453,6,New / Occasional
+313,Riya Verma,Meta Ads,1,2708.0,416,6,New / Occasional
+332,Pooja Chauhan,Google Ads,2,2465.1,89,6,New / Occasional
+341,Rahul Mehta,Influencer,1,2579.0,341,6,New / Occasional
+342,Sneha Bose,Referral,4,7336.3,6,6,Low Engagement
+344,Rajesh Desai,Email/SMS,1,919.2,515,6,New / Occasional
+345,Vihaan Bose,Organic Search,2,1703.1,424,6,New / Occasional
+347,Saanvi Verma,Influencer,1,1748.45,333,6,New / Occasional
+355,Riya Reddy,Email/SMS,1,882.55,453,6,New / Occasional
+361,Om Desai,Organic Search,3,6148.05,55,6,Low Engagement
+362,Vivaan Pillai,Email/SMS,1,1258.2,593,6,New / Occasional
+375,Vikram Desai,Google Ads,3,5799.85,46,6,Low Engagement
+395,Sai Patel,Referral,2,1729.25,421,6,New / Occasional
+400,Ayaan Reddy,Meta Ads,2,2092.2,255,6,New / Occasional
+410,Kavya Gupta,Google Ads,2,8239.8,8,6,Low Engagement
+411,Priya Reddy,Organic Search,2,4847.85,67,6,Low Engagement
+412,Sneha Iyer,Affiliate,1,3227.0,641,6,New / Occasional
+414,Vikram Bansal,Google Ads,3,7321.55,79,6,Low Engagement
+415,Pooja Bose,Organic Search,1,1277.65,557,6,New / Occasional
+416,Vikram Desai,Email/SMS,1,1610.05,431,6,New / Occasional
+429,Nikhil Kapoor,Google Ads,1,2532.15,448,6,New / Occasional
+431,Aadhya Desai,Organic Search,1,4898.0,298,6,New / Occasional
+432,Krishna Agarwal,Google Ads,1,8756.1,56,6,Low Engagement
+435,Navya Gupta,Influencer,1,2408.0,322,6,New / Occasional
+447,Vihaan Singh,Organic Search,3,5469.85,68,6,Low Engagement
+454,Arjun Mehta,Influencer,3,6359.6,55,6,Low Engagement
+466,Ira Kapoor,Meta Ads,4,3282.65,2,6,Low Engagement
+471,Ishaan Rao,Email/SMS,4,6291.8,32,6,Low Engagement
+484,Saanvi Kulkarni,Google Ads,1,464.55,552,6,New / Occasional
+486,Pooja Malhotra,Meta Ads,2,2761.05,273,6,New / Occasional
+493,Kiara Iyer,Organic Search,2,2652.3,119,6,New / Occasional
+506,Arjun Singh,Email/SMS,2,4800.15,78,6,Low Engagement
+510,Aman Agarwal,Email/SMS,1,898.2,513,6,New / Occasional
+511,Riya Sharma,Meta Ads,1,2576.15,376,6,New / Occasional
+516,Suresh Desai,Google Ads,1,2366.1,726,6,New / Occasional
+532,Pooja Desai,Meta Ads,1,3673.65,166,6,New / Occasional
+535,Karan Mehta,Referral,1,629.1,606,6,New / Occasional
+537,Rahul Bansal,Email/SMS,4,6912.35,10,6,Low Engagement
+539,Simran Chauhan,Google Ads,1,934.15,521,6,New / Occasional
+551,Arjun Kapoor,Referral,3,6800.35,44,6,Low Engagement
+552,Ira Nair,Google Ads,3,5958.3,47,6,Low Engagement
+583,Aditya Mehta,Google Ads,3,2737.35,158,6,New / Occasional
+584,Aditya Sharma,Meta Ads,1,699.0,569,6,New / Occasional
+585,Vikram Bansal,Google Ads,3,2468.05,85,6,New / Occasional
+589,Neha Bansal,Organic Search,1,2438.1,330,6,New / Occasional
+590,Nikhil Patel,Referral,2,2645.2,124,6,New / Occasional
+593,Pooja Reddy,Affiliate,1,4039.05,142,6,New / Occasional
+12,Suresh Singh,Organic Search,1,1720.05,282,5,New / Occasional
+20,Anika Pillai,Organic Search,2,2867.0,70,5,Low Engagement
+36,Vihaan Iyer,Email/SMS,2,3029.45,78,5,Low Engagement
+41,Meera Singh,Referral,1,2449.0,96,5,New / Occasional
+44,Om Agarwal,Meta Ads,2,1483.2,87,5,New / Occasional
+49,Anika Pillai,Google Ads,3,6016.8,37,5,Low Engagement
+79,Rohan Bose,Referral,1,4892.3,44,5,Low Engagement
+83,Rajesh Bansal,Organic Search,1,2003.2,174,5,New / Occasional
+86,Sneha Reddy,Meta Ads,3,3219.05,79,5,Low Engagement
+158,Krishna Patel,Organic Search,2,3761.15,8,5,Low Engagement
+161,Aman Mehta,Referral,1,2058.05,141,5,New / Occasional
+170,Myra Joshi,Meta Ads,2,5078.75,14,5,Low Engagement
+173,Meera Nair,Email/SMS,1,5444.2,40,5,Low Engagement
+176,Neha Singh,Google Ads,3,5614.15,15,5,Low Engagement
+183,Sneha Patel,Referral,1,2053.1,272,5,New / Occasional
+192,Om Bansal,Meta Ads,3,6692.35,34,5,Low Engagement
+198,Rahul Rao,Google Ads,2,2043.05,53,5,Low Engagement
+216,Ishaan Verma,Affiliate,2,3035.9,84,5,Low Engagement
+228,Myra Kulkarni,Meta Ads,1,1049.0,307,5,New / Occasional
+233,Simran Reddy,Influencer,1,1058.0,91,5,New / Occasional
+245,Reyansh Agarwal,Meta Ads,1,949.0,91,5,New / Occasional
+252,Sneha Bansal,Google Ads,3,7315.7,33,5,Low Engagement
+279,Neha Chauhan,Meta Ads,3,5641.5,16,5,Low Engagement
+282,Meera Kapoor,Organic Search,2,1880.05,283,5,New / Occasional
+292,Om Kapoor,Organic Search,1,1354.1,114,5,New / Occasional
+297,Pooja Reddy,Google Ads,1,1259.25,192,5,New / Occasional
+305,Amit Joshi,Referral,1,2051.4,173,5,New / Occasional
+315,Ayaan Kapoor,Google Ads,1,2066.3,276,5,New / Occasional
+319,Navya Kapoor,Meta Ads,2,1298.0,239,5,New / Occasional
+320,Priya Singh,Google Ads,1,2685.1,214,5,New / Occasional
+326,Rohan Pillai,Organic Search,1,2344.2,191,5,New / Occasional
+340,Meera Bansal,Organic Search,1,539.1,301,5,New / Occasional
+380,Sai Joshi,Meta Ads,3,7411.4,27,5,Low Engagement
+384,Ira Desai,Organic Search,2,5404.4,3,5,Low Engagement
+404,Divya Singh,Referral,3,6309.3,31,5,Low Engagement
+455,Ayaan Kulkarni,Referral,2,6507.0,6,5,Low Engagement
+459,Anika Agarwal,Google Ads,1,909.0,91,5,New / Occasional
+467,Meera Mehta,Affiliate,1,1855.2,177,5,New / Occasional
+468,Saanvi Bose,Meta Ads,3,5606.0,2,5,Low Engagement
+474,Myra Mehta,Email/SMS,1,1668.0,238,5,New / Occasional
+481,Suresh Singh,Google Ads,3,6040.3,30,5,Low Engagement
+494,Vihaan Singh,Google Ads,1,2691.55,196,5,New / Occasional
+495,Kavya Kapoor,Affiliate,1,1129.0,270,5,New / Occasional
+519,Anika Gupta,Organic Search,1,2294.4,87,5,New / Occasional
+540,Saanvi Verma,Meta Ads,3,5921.45,37,5,Low Engagement
+553,Yash Chauhan,Organic Search,2,4011.3,0,5,Low Engagement
+561,Ayaan Chauhan,Influencer,1,1654.25,238,5,New / Occasional
+569,Ananya Gupta,Referral,1,1193.15,247,5,New / Occasional
+575,Anika Desai,Meta Ads,1,2727.0,241,5,New / Occasional
+594,Simran Desai,Meta Ads,1,4018.55,83,5,Low Engagement
+595,Navya Verma,Email/SMS,2,1929.05,110,5,New / Occasional
+599,Simran Bose,Meta Ads,1,2070.05,119,5,New / Occasional
+32,Divya Verma,Meta Ads,1,6510.1,3,4,Low Engagement
+59,Arjun Rao,Affiliate,1,3120.15,52,4,Low Engagement
+120,Arjun Verma,Influencer,1,4291.1,36,4,Low Engagement
+168,Rajesh Malhotra,Google Ads,2,2906.65,10,4,Low Engagement
+202,Rajesh Singh,Google Ads,2,1248.0,65,4,Low Engagement
+218,Om Iyer,Organic Search,1,1608.0,44,4,Low Engagement
+288,Suresh Rao,Affiliate,2,1880.65,68,4,Low Engagement
+383,Ira Rao,Meta Ads,1,1248.0,70,4,Low Engagement
+391,Divya Nair,Referral,2,2095.1,0,4,Low Engagement
+419,Rajesh Joshi,Meta Ads,1,4237.2,36,4,Low Engagement
+529,Aarav Bansal,Organic Search,1,1068.0,59,4,Low Engagement
+568,Kiara Joshi,Organic Search,2,1565.6,42,4,Low Engagement
+581,Nikhil Reddy,Influencer,1,929.0,40,4,Low Engagement
+600,Vihaan Singh,Organic Search,1,1101.05,77,4,Low Engagement
+48,Navya Mehta,Referral,1,1585.55,31,3,Low Engagement
+85,Om Bose,Google Ads,1,2229.25,39,3,Low Engagement
+174,Kiara Kapoor,Affiliate,1,2319.0,31,3,Low Engagement
+188,Ayaan Malhotra,Google Ads,1,499.0,18,3,Low Engagement
+220,Suresh Chauhan,Influencer,1,1538.0,17,3,Low Engagement
+290,Yash Pillai,Google Ads,1,2314.2,27,3,Low Engagement
+542,Vivaan Singh,Affiliate,1,1199.0,36,3,Low Engagement
